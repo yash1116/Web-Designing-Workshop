@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+h1{
+    text-align: center;
+	text transform: capitalize;
+	color: black;
+	background: yellow;
+	font-family: 'Poppins','sans-serif';
+   }*
+   body
+   {
+   	text-align: center;
+   	display: inline-block;
+   }
